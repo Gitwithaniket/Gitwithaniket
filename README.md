@@ -1,12 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:7B42BC&height=250&section=header&text=Aniket%20Ramteke&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AWS%20and%20DevOps%20Engineer%20%7C%20Cloud%20and%20Infrastructure%20Automation&descAlignY=51&descSize=16" alt="Aniket Ramteke" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:7B42BC&height=250&section=header&text=Aniket%20Ramteke&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AWS%20and%20DevOps%20Engineer%20%7C%20Cloud%20and%20Infrastructure%20Automation&descAlignY=51&descSize=16" alt="Aniket Ramteke" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Building+Cloud+Infrastructure+with+Terraform;Automating+with+GitHub+Actions+%26+Jenkins;Containerizing+with+Docker;Aspiring+DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Building+Cloud+Infrastructure+with+Terraform;Automating+with+GitHub+Actions+%26+Jenkins;Containerizing+with+Docker;Aspiring+DevOps+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gitwithaniket&style=for-the-badge&color=FF6B35&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Gitwithaniket?style=for-the-badge&color=7B42BC&labelColor=181717" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=blueviolet&label=Repos&query=public_repos&url=https://api.github.com/users/Gitwithaniket&labelColor=181717" alt="Repo Count" />
 </p>
 
 <p align="center">
@@ -17,6 +18,8 @@
 
 ### 🧑‍💻 About Me
 
+<img align="right" width="230" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding animation" />
+
 - 🎓 MCA Graduate
 - ☁️ Focused on **AWS Cloud & DevOps**
 - 🏗️ Building infrastructure with **Terraform & OpenTofu**
@@ -25,6 +28,8 @@
 - 🔐 Exploring **GitHub Actions, AWS IAM & OIDC**
 - 📚 Continuously improving my Cloud & DevOps skills
 - 📍 Based in Hyderabad, India
+
+<br clear="right"/>
 
 ---
 
@@ -139,26 +144,18 @@ Actively building hands-on experience toward an **AWS / DevOps Engineer** role, 
 
 ### 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Gitwithaniket&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Aniket's GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitwithaniket&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    alt="Aniket's Top Languages"
-  />
-</p> -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gitwithaniket&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Aniket's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitwithaniket&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Aniket's Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Gitwithaniket&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Gitwithaniket&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>-->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gitwithaniket&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gitwithaniket&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
