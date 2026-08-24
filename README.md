@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:7B42BC&height=220&section=header&text=Aniket%20Ramteke&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AWS%20%26%20DevOps%20Enthusiast%20|%20Cloud%20%26%20Infrastructure%20Automation&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:7B42BC&height=220&section=header&text=Aniket%20Ramteke&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AWS%20%26%20DevOps%20Enthusiast%20%7C%20Cloud%20%26%20Infrastructure%20Automation&descAlignY=55&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Building+Cloud+Infrastructure+with+Terraform;Automating+with+GitHub+Actions+%26+Jenkins;Containerizing+with+Docker;Aspiring+DevOps+Engineer" alt="Typing SVG" />
