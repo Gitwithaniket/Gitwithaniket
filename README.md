@@ -139,7 +139,7 @@ Actively building hands-on experience toward an **AWS / DevOps Engineer** role, 
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=Gitwithaniket&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
@@ -150,15 +150,15 @@ Actively building hands-on experience toward an **AWS / DevOps Engineer** role, 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitwithaniket&layout=compact&theme=radical&hide_border=true&langs_count=8"
     alt="Aniket's Top Languages"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Gitwithaniket&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=Gitwithaniket&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gitwithaniket&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
