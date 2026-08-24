@@ -90,10 +90,10 @@
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| ☕ **[Maven Java Spring Boot Project](https://github.com/Gitwithaniket/Maven-Java-Springboot-Project)** | Java · Spring Boot · Maven · Docker · CI/CD | Java Spring Boot application for practicing build, testing, containerization, and DevOps automation |
 | 🏗️ **[Terraform Real-Time Project](https://github.com/Gitwithaniket/Terraform-RealTime-Project)** | Terraform · AWS · VPC · RDS · ALB · IAM · S3 · DynamoDB | Production-style AWS infrastructure using reusable Terraform modules, environment-based deployment, VPC networking, RDS, ALB, IAM, and remote state management |
 | ☁️ **[Terraform Module – Three Tier](https://github.com/Gitwithaniket/Terraform-Module-Three-Tier)** | Terraform · AWS · IaC | Modular Terraform implementation designing reusable AWS infrastructure following a three-tier architecture |
 | 🔐 **[GitHub Actions AWS OIDC](https://github.com/Gitwithaniket/OIDC_Git_Action)** | GitHub Actions · AWS IAM · OIDC | GitHub Actions authenticating with AWS using OIDC, eliminating long-lived AWS access keys |
+| ☕ **[Maven Java Spring Boot Project](https://github.com/Gitwithaniket/Maven-Java-Springboot-Project)** | Java · Spring Boot · Maven · Docker · CI/CD | Java Spring Boot application for practicing build, testing, containerization, and DevOps automation |
 
 **📂 More Projects**
 - 🔹 [Terraform-DevOps](https://github.com/Gitwithaniket/Terraform-DevOps)
@@ -145,7 +145,7 @@ Actively building hands-on experience toward an **AWS / DevOps Engineer** role, 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gitwithaniket&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Gitwithaniket&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
