@@ -34,6 +34,7 @@
 ---
 
 🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,jenkins,java,python,git,linux,bash&theme=dark&perline=10" alt="Skill Icons" /> </p>
 ☁️ Cloud
 
 <p> <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /> </p>
