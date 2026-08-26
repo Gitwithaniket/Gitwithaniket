@@ -153,9 +153,9 @@ Actively building hands-on experience toward an **AWS / DevOps Engineer** role, 
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Gitwithaniket&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gitwithaniket&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gitwithaniket&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
