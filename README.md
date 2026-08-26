@@ -159,7 +159,7 @@ Actively building hands-on experience toward an **AWS / DevOps Engineer** role, 
 
 <p align="center">
   <img
-    src="https://Maven-Java-Springboot-Project.vercel.app/graph?username=Gitwithaniket&theme=react-dark&hide_border=true&area=true"
+    src="https://your-activity-graph.vercel.app/graph?username=Gitwithaniket&theme=react-dark&hide_border=true&area=true"
     alt="GitHub Activity Graph"
     width="100%"
   />
