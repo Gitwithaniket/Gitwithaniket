@@ -33,63 +33,36 @@
 
 ---
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
+☁️ Cloud
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,jenkins,java,python,git,linux,bash&theme=dark&perline=10" alt="Skill Icons" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /> </p>
 
-<details open>
-<summary><b>☁️ Cloud</b></summary>
-<br>
+AWS: EC2 · VPC · S3 · IAM · RDS · ALB · Route 53 · CloudFront · NAT Gateway
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+🏗️ Infrastructure as Code
 
-`EC2 · VPC · S3 · IAM · RDS · ALB · Route 53 · CloudFront · NAT Gateway`
+<p> <img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform" /> </p>
 
-</details>
+IaC: Terraform · OpenTofu · Terraform Modules · Remote State · S3 Backend · State Locking
 
-<details>
-<summary><b>🏗️ Infrastructure as Code</b></summary>
-<br>
+🔄 CI/CD & Automation
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black)
+<p> <img src="https://skillicons.dev/icons?i=githubactions,jenkins&theme=dark" alt="GitHub Actions and Jenkins" /> </p>
 
-`Terraform · OpenTofu · Modular Infrastructure · Remote State`
+CI/CD: GitHub Actions · Jenkins · Pipeline Automation · GitHub OIDC · AWS IAM
 
-</details>
+🐳 Containers
 
-<details>
-<summary><b>🔄 CI/CD & Automation</b></summary>
-<br>
+<p> <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /> </p>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+Containers: Docker · Docker Images · Docker Compose · Container Deployment
 
-`GitHub Actions · Jenkins · CI/CD Pipelines · OIDC`
+💻 Programming & Tools
 
-</details>
+<p> <img src="https://skillicons.dev/icons?i=java,python,git,linux,bash,maven&theme=dark" alt="Programming and DevOps tools" /> </p>
 
-<details>
-<summary><b>🐳 Containers</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-`Docker · Docker Images · Container Deployment`
-
-</details>
-
-<details>
-<summary><b>💻 Programming & Tools</b></summary>
-<br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-`Git · GitHub · Linux · Bash · Java · Python · Maven`
-
-</details>
-
----
+Tools: Git · GitHub · Linux · Bash · Java · Python · Maven
 
 ### 🚀 Featured Projects
 
